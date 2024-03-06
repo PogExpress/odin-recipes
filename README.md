@@ -1,0 +1,2 @@
+This is my first semi-actual project on The Odin Project in which I am going to make a a recipe webpage and I will probably have to review the previous
+lessons on how to use git because I completely forgot and that stuff is annoying dogshit
